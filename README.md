@@ -38,6 +38,8 @@ Level 1 (quick win)
 
 ```dd```  Delete a full line
 
+```u```  Undo
+
 
 Level 2 (more quick win)
 ========================
