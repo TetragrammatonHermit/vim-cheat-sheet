@@ -1,11 +1,11 @@
-vim-cheat-sheet
+Vim cheat sheet
 ===============
 
-My very own Vim cheat sheet
+Vim is famous for its steep learning curve. Most of the cheat sheet I have seen are extensive and organized by topics. 
+This is an obvious choice when you master the 
 
-
-Navigation
-==========
+Level 0 (minimal and survival)
+==============================
 
 ```j``` Move down
 
@@ -14,6 +14,13 @@ Navigation
 ```m``` Move right
 
 ```h``` Move left
+
+
+
+
+Navigation
+==========
+
 
 
 ```G``` Go to end of file
