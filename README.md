@@ -52,6 +52,12 @@ Level 2 (more quick win)
 
 ```A``` Go to the end of line and editor mode
 
+```/nnnn``` Search for the string "nnnnn" 
+
+```n``` Move to the next occurrence (to the bottom)
+
+```U``` Move to the previous occurrence (to the top)
+
 
 Level 3 (copy and paste)
 ========================
