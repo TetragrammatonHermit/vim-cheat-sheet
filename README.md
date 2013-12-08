@@ -76,10 +76,22 @@ Level 3 (copy and paste)
 Level 4 (for developers)
 ========================
 
-```ctrl-x ctrl-o```Omni completion
+```ctrl-x ctrl-o``` Omni completion
 
 ```:only``` Remove this damn double screen from the omni completion
 
+Level 5 (for writers and poets)
+===============================
+
+```:set spell spelllang=en_us``` Trigger spell check
+
+```:set nospell``` Remove the spell check
+
+```]s``` Go to the next misspelled word
+
+```[s``` Go to the previous misspelled word
+
+```z=``` Display list of suggestions on misspelled word
 
 Contribute
 ==========
